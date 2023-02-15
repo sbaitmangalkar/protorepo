@@ -4,7 +4,7 @@ package student;
 
 option go_package = "v1/proto";
 option java_multiple_files = true;
-option java_package = "com.sbaitman.student.proto";
+option java_package = "com.sbaitman.proto";
 option java_outer_classname = "StudentProto";
 option objc_class_prefix = "RTG";
 
