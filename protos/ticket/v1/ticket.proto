@@ -11,7 +11,7 @@ option java_outer_classname = "TicketProto";
 option objc_class_prefix = "RTG";
 
 message Ticket {
-  int32 id = 1;
+  string id = 1;
   string creatorId = 2;
   string creatorName = 3;
 
