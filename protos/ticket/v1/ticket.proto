@@ -4,7 +4,7 @@ package student;
 
 import "google/protobuf/timestamp.proto";
 
-option go_package = "v1/ticket/proto";
+option go_package = "ticket/proto/v1";
 option java_multiple_files = true;
 option java_package = "com.sbaitman.ticket.proto";
 option java_outer_classname = "TicketProto";
